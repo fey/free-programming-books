@@ -7,7 +7,6 @@
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
 * [Erlang](#erlang)
-* [F#](#f-sharp)
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
@@ -72,11 +71,6 @@
 * [Try Erlang](http://www.tryerlang.org)
 
 
-### F Sharp
-
-* [Try F#](http://www.tryfsharp.org)
-
-
 ### Git
 
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
@@ -113,6 +107,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
@@ -124,6 +119,7 @@
 * [ES6 Interactive Guide](http://stack.formidable.com/es6-interactive-guide/#/)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
+* [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn knockout.js](http://learn.knockoutjs.com)
@@ -219,6 +215,7 @@
 
 ### SQL
 
+* [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQLBolt](http://sqlbolt.com)
 
 
